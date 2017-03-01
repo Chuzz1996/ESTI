@@ -36,11 +36,20 @@ books = data.frame(
   #Add points 
   h + geom_line() + geom_point()
 
+me = structure( c(prueba3$cuestionario, prueba3$ciudad,prueba3$nse,prueba3$gen,prueba3$edad))
 
 
 
 
+information = data.frame(
+cuestionario = prueba3$cuestionario,
+ciudad = prueba3$ciudad,
+nse = prueba3$nse,
+gen = prueba3$gen,
+edad = prueba3$edad
+)
 
+table(prueba3$ciudad,prueba3$gen)
 
 
 
