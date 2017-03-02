@@ -38,7 +38,10 @@ books = data.frame(
 
 me = structure( c(prueba3$cuestionario, prueba3$ciudad,prueba3$nse,prueba3$gen,prueba3$edad))
 
-
+#Pie
+ #factor(1) take into account only a column of books table
+g <- ggplot(data=books, aes(x=factor(1),fill = factor(num_pages))) + geom_bar(width = 1)
+g + coord_polar(theta = "y")
 
 
 information = data.frame(
