@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "<html>\n\n<head>\n<title>Title</title>\n</head>\n\n<body>\n\n<p>This is an R HTML document. When you click the <b>Knit HTML</b> button a web page will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:</p>\n\n<!--begin.rcode\nsummary(cars)\nend.rcode-->\n\n<p>You can also embed plots, for example:</p>\n\n<!--begin.rcode fig.width=7, fig.height=6\nplot(cars)\n\n\n\n\n# Sample Session \ninstall.packages('R2HTML')\ninstall.packages('threejs')\ninstall.packages('htmlwidgets')\ninstall.packages('manipulate')\n\n\nlibrary(htmlwidgets)\nlibrary(threejs)\nlibrary(R2HTML)\n\n \n  z <- seq(-10, 10, 0.01)\n  x <- cos(z)\n  y <- sin(z)\nscatterplot3js(x,y,z, color=rainbow(length(z)))\n\n\nsaveWidget(scatterplot3js(x,y,z, color=rainbow(length(z))), file=\"scatterplot.html\")\n\n\n\nlibrary(manipulate)\nmanipulate(plot(1:x), x = slider(1, 100))\n\n\nmanipulate(\n  plot(cars, xlim = c(0, x.max), type = type, ann = label),\n  x.max = slider(10, 25, step=5, initial = 25),\n  type = picker(\"Points\" = \"p\", \"Line\" = \"l\", \"Step\" = \"s\"),\n  label = checkbox(TRUE, \"Draw Labels\"))\n\nsaveWidget(manipulate(\n  plot(cars, xlim = c(0, x.max), type = type, ann = label),\n  x.max = slider(10, 25, step=5, initial = 25),\n  type = picker(\"Points\" = \"p\", \"Line\" = \"l\", \"Step\" = \"s\"),\n  label = checkbox(TRUE, \"Draw Labels\")), file=\"scatterplotchimba.html\")\n\n\nend.rcode-->\n\n</body>\n</html>\n",
+    "created" : 1488475517773.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3470440352",
+    "id" : "B8ECC5E",
+    "lastKnownWriteTime" : 1488511126,
+    "last_content_update" : 1488511126939,
+    "path" : "~/esti p/proyecto 2.0/int4/intento 4/primeraFase.Rhtml",
+    "project_path" : "primeraFase.Rhtml",
+    "properties" : {
+        "docOutlineVisible" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_html"
+}

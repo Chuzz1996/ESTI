@@ -1,0 +1,65 @@
+<html>
+
+<head>
+<title>Title</title>
+</head>
+
+<body>
+
+<p>This is an R HTML document. When you click the <b>Knit HTML</b> button a web page will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:</p>
+
+<!--begin.rcode
+summary(cars)
+end.rcode-->
+
+<p>You can also embed plots, for example:</p>
+
+<!--begin.rcode fig.width=7, fig.height=6
+plot(cars)
+
+
+
+
+# Sample Session 
+install.packages('R2HTML')
+install.packages('threejs')
+install.packages('htmlwidgets')
+install.packages('manipulate')
+
+
+library(htmlwidgets)
+library(threejs)
+library(R2HTML)
+
+ 
+  z <- seq(-10, 10, 0.01)
+  x <- cos(z)
+  y <- sin(z)
+scatterplot3js(x,y,z, color=rainbow(length(z)))
+
+
+saveWidget(scatterplot3js(x,y,z, color=rainbow(length(z))), file="scatterplot.html")
+
+
+
+library(manipulate)
+manipulate(plot(1:x), x = slider(1, 100))
+
+
+manipulate(
+  plot(cars, xlim = c(0, x.max), type = type, ann = label),
+  x.max = slider(10, 25, step=5, initial = 25),
+  type = picker("Points" = "p", "Line" = "l", "Step" = "s"),
+  label = checkbox(TRUE, "Draw Labels"))
+
+saveWidget(manipulate(
+  plot(cars, xlim = c(0, x.max), type = type, ann = label),
+  x.max = slider(10, 25, step=5, initial = 25),
+  type = picker("Points" = "p", "Line" = "l", "Step" = "s"),
+  label = checkbox(TRUE, "Draw Labels")), file="scatterplotchimba.html")
+
+
+end.rcode-->
+
+</body>
+</html>

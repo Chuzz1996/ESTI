@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "install.packages('tableHTML')\ninstall.packages('htmlwidgets')\n\n\nlibrary(tableHTML)\n#create an html table as string\ntableHTML(mtcars)\n\n#and to export in a file\nwrite_tableHTML(tableHTML(mtcars), file = 'myfile.xls')\n\n\n\n# Create the data\ndata <- rnorm(100, sd=15)+1:100\n# Create a simple scatterplot\n# with long labels to enhance \n# size comparison\nmy_sc_plot <- function(data){\n  par(cex.lab=1.5, cex.main=2)\n  plot(data, \n       main=\"A simple scatterplot\", \n       xlab=\"A random variable plotted\", \n       ylab=\"Some rnorm value\",\n       col=\"steelblue\")\n  x <- 1:100\n  abline(lm(data~x), lwd=2)\n}\nmy_sc_plot(data)\n\n",
+    "created" : 1488482673283.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2204947818",
+    "id" : "5C736929",
+    "lastKnownWriteTime" : 1488472313,
+    "last_content_update" : 1488472313,
+    "path" : "~/esti p/proyecto 2.0/intento3/tablalista/p3.R",
+    "project_path" : null,
+    "properties" : {
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

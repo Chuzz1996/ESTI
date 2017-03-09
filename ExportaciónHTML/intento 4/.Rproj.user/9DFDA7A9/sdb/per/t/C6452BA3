@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "library(tableHTML)\n#create an html table as string\ntableHTML(mtcars)\n\n#and to export in a file\nwrite_tableHTML(tableHTML(mtcars), file = 'tabla.html')",
+    "created" : 1488482698166.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "224532305",
+    "id" : "C6452BA3",
+    "lastKnownWriteTime" : 1488511265,
+    "last_content_update" : 1488511265132,
+    "path" : "~/esti p/proyecto 2.0/int4/intento 4/tabla.R",
+    "project_path" : "tabla.R",
+    "properties" : {
+        "tempName" : "Untitled4"
+    },
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

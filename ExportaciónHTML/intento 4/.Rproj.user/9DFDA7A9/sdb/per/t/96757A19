@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "\n# Sample Session \ninstall.packages('R2HTML')\ninstall.packages('threejs')\ninstall.packages('htmlwidgets')\ninstall.packages('manipulate')\n\n\nlibrary(htmlwidgets)\nlibrary(threejs)\nlibrary(R2HTML)\n\n# Create the data\ndata <- rnorm(100, sd=15)+1:100\n# Create a simple scatterplot\n# with long labels to enhance \n# size comparison\nmy_sc_plot <- function(data){\n  par(cex.lab=1.5, cex.main=2)\n  plot(data, \n       main=\"A simple scatterplot\", \n       xlab=\"A random variable plotted\", \n       ylab=\"Some rnorm value\",\n       col=\"steelblue\")\n  x <- 1:100\n  abline(lm(data~x), lwd=2)\n}\nmy_sc_plot(data)\npuntos <- my_sc_plot(data)\n\nsaveWidget(puntos, file=\"puntos.html\")\n    ",
+    "created" : 1488481500198.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3508024176",
+    "id" : "96757A19",
+    "lastKnownWriteTime" : 1488511177,
+    "last_content_update" : 1488511177600,
+    "path" : "~/esti p/proyecto 2.0/int4/intento 4/puntos.R",
+    "project_path" : "puntos.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

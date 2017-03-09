@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "library(ggplot2)\nlibrary(plotly)\n\np <- ggplot(data = diamonds, aes(x = cut, fill = clarity)) +\n  geom_bar(position = \"dodge\")\nggplotly(p)\n\n\nsaveWidget(ggplotly(p), file=\"puntos.html\")",
+    "created" : 1488482318357.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2866452182",
+    "id" : "7384C44",
+    "lastKnownWriteTime" : 1488511200,
+    "last_content_update" : 1488511200830,
+    "path" : "~/esti p/proyecto 2.0/int4/intento 4/barras.R",
+    "project_path" : "barras.R",
+    "properties" : {
+        "tempName" : "Untitled2"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

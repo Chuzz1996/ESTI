@@ -1,0 +1,490 @@
+<html>
+<head>
+<title>Title</title>
+</head>
+<body>
+<p>This is an R HTML document. When you click the <b>Knit HTML</b> button a web page will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:</p>
+<!--begin.rcode
+summary(cars)
+end.rcode-->
+<p>You can also embed plots, for example:</p>
+<!--begin.rcode fig.width=7, fig.height=6
+plot(cars)
+end.rcode-->
+</body>
+</html>
+# Chunk 1
+summary(cars)
+# Chunk 2
+plot(cars)
+# Chunk 1
+summary(cars)
+# Chunk 2
+plot(cars)
+# Chunk 1
+summary(cars)
+# Chunk 2
+plot(cars)
+library(plotly)
+set.seed(100)
+d <- diamonds[sample(nrow(diamonds),1000), ]
+p <- plot_ly(d, x = carat, y = price, text = paste("Clarity: " , clarity), mode = "markers", color = carat, size = carat)
+htmlwidgets::saveWidget(as.widget(p), "index.html")
+View(d)
+library(plotly)
+set.seed(100)
+d <- diamonds[sample(nrow(diamonds),1000), ]
+p <- plot_ly(d, x = carat, y = price, text = paste("Clarity: " , clarity), mode = "markers", color = carat, size = carat)
+htmlwidgets::saveWidget(as.widget(d), "index.html")
+htmlwidgets::saveWidget(as.widget(d), "index.html")
+library(R2HTML)
+library(R2HTML)
+HTMLStart(outdir="c:/mydir", file="myreport",
+extension="html", echo=FALSE, HTMLframe=TRUE)
+HTML.title("My Report", HR=1)
+HTML.title("Description of my data", HR=3)
+summary(mydata)
+HTMLhr()
+HTML.title("X Y Scatter Plot", HR=2)
+plot(mydata$y~mydata$x)
+HTMLplot()
+HTMLStop()
+install.packages('R2HTML')
+library(R2HTML)
+HTMLStart(outdir="c:/mydir", file="myreport",
+extension="html", echo=FALSE, HTMLframe=TRUE)
+HTML.title("My Report", HR=1)
+HTML.title("Description of my data", HR=3)
+summary(mydata)
+HTMLhr()
+HTML.title("X Y Scatter Plot", HR=2)
+plot(mydata$y~mydata$x)
+HTMLplot()
+HTMLStop()
+library(R2HTML)
+summary(mydata)
+library(threejs)
+z <- seq(-10, 10, 0.01)
+x <- cos(z)
+y <- sin(z)
+scatterplot3js(x,y,z, color=rainbow(length(z)))
+install.packages('scatterplot3js')
+library(scatterplot3js)
+scatterplot3js(x,y,z, color=rainbow(length(z)))
+install.packages('threejs')
+library(threejs)
+z <- seq(-10, 10, 0.01)
+x <- cos(z)
+y <- sin(z)
+scatterplot3js(x,y,z, color=rainbow(length(z)))
+install.packages('htmlwidgets')
+install.packages("htmlwidgets")
+library(htmlwidgets)
+library(threejs)
+library(R2HTML)
+z <- seq(-10, 10, 0.01)
+x <- cos(z)
+y <- sin(z)
+scatterplot3js(x,y,z, color=rainbow(length(z)))
+saveWidget(scatterplot3js(x,y,z, color=rainbow(length(z))), file="scatterplot.html")
+library(manipulate)
+manipulate(plot(1:x), x = slider(1, 100))
+manipulate(
+plot(cars, xlim = c(0, x.max), type = type, ann = label),
+x.max = slider(10, 25, step=5, initial = 25),
+type = picker("Points" = "p", "Line" = "l", "Step" = "s"),
+label = checkbox(TRUE, "Draw Labels"))
+install.packages('manipulate')
+library(manipulate)
+manipulate(plot(1:x), x = slider(1, 100))
+manipulate(
+plot(cars, xlim = c(0, x.max), type = type, ann = label),
+x.max = slider(10, 25, step=5, initial = 25),
+type = picker("Points" = "p", "Line" = "l", "Step" = "s"),
+label = checkbox(TRUE, "Draw Labels"))
+saveWidget(manipulate(
+plot(cars, xlim = c(0, x.max), type = type, ann = label),
+x.max = slider(10, 25, step=5, initial = 25),
+type = picker("Points" = "p", "Line" = "l", "Step" = "s"),
+label = checkbox(TRUE, "Draw Labels")), file="scatterplotchimba.html")
+install.packages('tableHTML')
+install.packages('htmlwidgets')
+# Create the data
+data <- rnorm(100, sd=15)+1:100
+# Create a simple scatterplot
+# with long labels to enhance
+# size comparison
+my_sc_plot <- function(data){
+par(cex.lab=1.5, cex.main=2)
+plot(data,
+main="A simple scatterplot",
+xlab="A random variable plotted",
+ylab="Some rnorm value",
+col="steelblue")
+x <- 1:100
+abline(lm(data~x), lwd=2)
+}
+my_sc_plot(data)
+install.packages("htmlwidgets")
+saveWidget(scatterplot3js(my_sc_plot(data), file="scatterplot.html")
+end.rcode-->
+saveWidget(scatterplot3js(my_sc_plot(data), file="puntos.html")
+end.rcode-->
+# Create the data
+data <- rnorm(100, sd=15)+1:100
+# Create a simple scatterplot
+# with long labels to enhance
+# size comparison
+my_sc_plot <- function(data){
+par(cex.lab=1.5, cex.main=2)
+plot(data,
+main="A simple scatterplot",
+xlab="A random variable plotted",
+ylab="Some rnorm value",
+col="steelblue")
+x <- 1:100
+abline(lm(data~x), lwd=2)
+}
+my_sc_plot(data)
+saveWidget(scatterplot3js(my_sc_plot(data), file="puntos.html")
+ok
+saveWidget(scatterplot3js(my_sc_plot(data), file="puntos.html")
+end.rcode-->
+install.packages('tableHTML')
+install.packages('htmlwidgets')
+# Create the data
+data <- rnorm(100, sd=15)+1:100
+# Create a simple scatterplot
+# with long labels to enhance
+# size comparison
+my_sc_plot <- function(data){
+par(cex.lab=1.5, cex.main=2)
+plot(data,
+main="A simple scatterplot",
+xlab="A random variable plotted",
+ylab="Some rnorm value",
+col="steelblue")
+x <- 1:100
+abline(lm(data~x), lwd=2)
+}
+my_sc_plot(data)
+saveWidget(scatterplot3js(my_sc_plot(data), file="puntos.html")
+install.packages('tableHTML')
+install.packages('htmlwidgets')
+# Create the data
+data <- rnorm(100, sd=15)+1:100
+# Create a simple scatterplot
+# with long labels to enhance
+# size comparison
+my_sc_plot <- function(data){
+par(cex.lab=1.5, cex.main=2)
+plot(data,
+main="A simple scatterplot",
+xlab="A random variable plotted",
+ylab="Some rnorm value",
+col="steelblue")
+x <- 1:100
+abline(lm(data~x), lwd=2)
+}
+my_sc_plot(data)
+saveWidget(scatterplot3js(my_sc_plot(data), file="puntos.html")
+saveWidget(scatterplot3js(my_sc_plot(data), file="puntos.html"))
+# Create the data
+data <- rnorm(100, sd=15)+1:100
+# Create a simple scatterplot
+# with long labels to enhance
+# size comparison
+my_sc_plot <- function(data){
+par(cex.lab=1.5, cex.main=2)
+plot(data,
+main="A simple scatterplot",
+xlab="A random variable plotted",
+ylab="Some rnorm value",
+col="steelblue")
+x <- 1:100
+abline(lm(data~x), lwd=2)
+}
+my_sc_plot(data)
+saveWidget(scatterplot3js(my_sc_plot(data), file="puntos.html"))
+install.packages('saveWidget')
+library(saveWidget)
+# Sample Session
+install.packages('R2HTML')
+install.packages('threejs')
+install.packages('htmlwidgets')
+install.packages('manipulate')
+library(htmlwidgets)
+library(threejs)
+library(R2HTML)
+# Create the data
+data <- rnorm(100, sd=15)+1:100
+# Create a simple scatterplot
+# with long labels to enhance
+# size comparison
+my_sc_plot <- function(data){
+par(cex.lab=1.5, cex.main=2)
+plot(data,
+main="A simple scatterplot",
+xlab="A random variable plotted",
+ylab="Some rnorm value",
+col="steelblue")
+x <- 1:100
+abline(lm(data~x), lwd=2)
+}
+my_sc_plot(data)
+saveWidget(scatterplot3js(my_sc_plot(data), file="puntos.html"))
+# Create the data
+data <- rnorm(100, sd=15)+1:100
+# Create a simple scatterplot
+# with long labels to enhance
+# size comparison
+my_sc_plot <- function(data){
+par(cex.lab=1.5, cex.main=2)
+plot(data,
+main="A simple scatterplot",
+xlab="A random variable plotted",
+ylab="Some rnorm value",
+col="steelblue")
+x <- 1:100
+abline(lm(data~x), lwd=2)
+}
+my_sc_plot(data)
+saveWidget(scatterplot3js(my_sc_plot(data), file="puntos.html"))
+saveWidget(my_sc_plot(data), file="puntos.html")
+puntos <- my_sc_plot(data)
+saveWidget(puntos, file="puntos.html"))
+saveWidget(puntos, file="puntos.html"))
+saveWidget(puntos, file="puntos.html")
+library(ggplot2)
+library(plotly)
+p <- ggplot(data = diamonds, aes(x = cut, fill = clarity)) +
+geom_bar(position = "dodge")
+ggplotly(p)
+library(ggplot2)
+library(plotly)
+d <- diamonds[sample(nrow(diamonds), 500), ]
+plot_ly(d, x = d$carat, y = d$price,
+text = paste("Clarity: ", d$clarity),
+mode = "markers", color = d$carat, size = d$carat)
+library(ggplot2)
+library(plotly)
+d <- diamonds[sample(nrow(diamonds), 500), ]
+plot_ly(d, x = d$carat, y = d$price,
+text = paste("Clarity: ", d$clarity),
+mode = "markers", color = d$carat, size = d$carat)
+p <- ggplot(data = diamonds, aes(x = cut, fill = clarity)) +
+geom_bar(position = "dodge")
+ggplotly(p)
+saveWidget(ggplotly(p), file="puntos.html")
+saveWidget(plot_ly, file="barras.html")
+d <- diamonds[sample(nrow(diamonds), 500), ]
+plot_ly(d, x = d$carat, y = d$price,
+text = paste("Clarity: ", d$clarity),
+mode = "markers", color = d$carat, size = d$carat)
+saveWidget(plot_ly, file="barras.html")
+d <- diamonds[sample(nrow(diamonds), 500), ]
+plot_ly(d, x = d$carat, y = d$price,
+text = paste("Clarity: ", d$clarity),
+mode = "markers", color = d$carat, size = d$carat)
+saveWidget(plot_ly(d, x = d$carat, y = d$price,
+text = paste("Clarity: ", d$clarity),
+mode = "markers", color = d$carat, size = d$carat), file="barras.html")
+d <- diamonds[sample(nrow(diamonds), 500), ]
+plot_ly(d, x = d$carat, y = d$price,
+text = paste("Clarity: ", d$clarity),
+mode = "markers", color = d$carat, size = d$carat)
+saveWidget(plot_ly(d, x = d$carat, y = d$price,
+text = paste("Clarity: ", d$clarity),
+mode = "markers", color = d$carat, size = d$carat), file="barras.html")
+library(tableHTML)
+#create an html table as string
+tableHTML(mtcars)
+#and to export in a file
+write_tableHTML(tableHTML(mtcars), file = 'tabla.html')
+source('~/.active-rstudio-document', echo=TRUE)
+## =======================================================================
+## scatter3D with fitted surface : the mtcars dataset
+## implemented by Karline Soetaert
+## =======================================================================
+require(plot3D)
+attach(mtcars)
+# linear fit
+fit <- lm(mpg ~ wt+disp)
+# predict on x-y grid, for surface
+wt.pred <- seq(1.5, 5.5, length.out = 30)
+disp.pred <- seq(71, 472, length.out = 30)
+xy <- expand.grid(wt = wt.pred,
+disp = disp.pred)
+mpg.pred <- matrix (nrow = 30, ncol = 30,
+data = predict(fit, newdata = data.frame(xy), interval = "prediction"))
+# predicted z-values, fitted points for droplines to surface
+fitpoints <- predict(fit)
+scatter3D(z = mpg, x = wt, y = disp, pch = 18, cex = 2,
+theta = 20, phi = 20, ticktype = "detailed",
+xlab = "wt", ylab = "disp", zlab = "mpg", clab = "mpg",
+surf = list(x = wt.pred, y = disp.pred, z = mpg.pred,
+facets = NA, fit = fitpoints),
+colkey = list(length = 0.8, width = 0.4),
+main = "mtcars")
+detach(mtcars)
+# TRY:
+# require(plot3Drgl)
+# plotrlg()
+install.packages('source')
+library(car)
+source(url("http://www.math.mcmaster.ca/bolker/R/misc/scatter3d.R"))
+scatter3d(prestige ~ income + education, data=Duncan)
+require(plot3D)
+attach(mtcars)
+# linear fit
+fit <- lm(mpg ~ wt+disp)
+# predict on x-y grid, for surface
+wt.pred <- seq(1.5, 5.5, length.out = 30)
+disp.pred <- seq(71, 472, length.out = 30)
+xy <- expand.grid(wt = wt.pred,
+disp = disp.pred)
+mpg.pred <- matrix (nrow = 30, ncol = 30,
+data = predict(fit, newdata = data.frame(xy), interval = "prediction"))
+# predicted z-values, fitted points for droplines to surface
+fitpoints <- predict(fit)
+scatter3D(z = mpg, x = wt, y = disp, pch = 18, cex = 2,
+theta = 20, phi = 20, ticktype = "detailed",
+xlab = "wt", ylab = "disp", zlab = "mpg", clab = "mpg",
+surf = list(x = wt.pred, y = disp.pred, z = mpg.pred,
+facets = NA, fit = fitpoints),
+colkey = list(length = 0.8, width = 0.4),
+main = "mtcars")
+detach(mtcars)
+# TRY:
+# require(plot3Drgl)
+# plotrlg()
+install.packages('plot3D')
+library(plot3D)
+source(url("http://www.math.mcmaster.ca/bolker/R/misc/scatter3d.R"))
+scatter3d(prestige ~ income + education, data=Duncan)
+require(plot3D)
+attach(mtcars)
+# linear fit
+fit <- lm(mpg ~ wt+disp)
+# predict on x-y grid, for surface
+wt.pred <- seq(1.5, 5.5, length.out = 30)
+disp.pred <- seq(71, 472, length.out = 30)
+xy <- expand.grid(wt = wt.pred,
+disp = disp.pred)
+mpg.pred <- matrix (nrow = 30, ncol = 30,
+data = predict(fit, newdata = data.frame(xy), interval = "prediction"))
+# predicted z-values, fitted points for droplines to surface
+fitpoints <- predict(fit)
+scatter3D(z = mpg, x = wt, y = disp, pch = 18, cex = 2,
+theta = 20, phi = 20, ticktype = "detailed",
+xlab = "wt", ylab = "disp", zlab = "mpg", clab = "mpg",
+surf = list(x = wt.pred, y = disp.pred, z = mpg.pred,
+facets = NA, fit = fitpoints),
+colkey = list(length = 0.8, width = 0.4),
+main = "mtcars")
+detach(mtcars)
+# TRY:
+# require(plot3Drgl)
+# plotrlg()
+## =======================================================================
+## scatter3D with fitted surface : the mtcars dataset
+## implemented by Karline Soetaert
+## =======================================================================
+install.packages('plot3D')
+library(plot3D)
+source(url("http://www.math.mcmaster.ca/bolker/R/misc/scatter3d.R"))
+require(plot3D)
+# linear fit
+fit <- lm(mpg ~ wt+disp)
+# predict on x-y grid, for surface
+wt.pred <- seq(1.5, 5.5, length.out = 30)
+disp.pred <- seq(71, 472, length.out = 30)
+xy <- expand.grid(wt = wt.pred,
+disp = disp.pred)
+mpg.pred <- matrix (nrow = 30, ncol = 30,
+data = predict(fit, newdata = data.frame(xy), interval = "prediction"))
+# predicted z-values, fitted points for droplines to surface
+fitpoints <- predict(fit)
+scatter3D(z = mpg, x = wt, y = disp, pch = 18, cex = 2,
+theta = 20, phi = 20, ticktype = "detailed",
+xlab = "wt", ylab = "disp", zlab = "mpg", clab = "mpg",
+surf = list(x = wt.pred, y = disp.pred, z = mpg.pred,
+facets = NA, fit = fitpoints),
+colkey = list(length = 0.8, width = 0.4),
+main = "mtcars")
+detach(mtcars)
+# TRY:
+# require(plot3Drgl)
+# plotrlg()
+install.packages("plot3D")
+library(plot3D)
+source(url("http://www.math.mcmaster.ca/bolker/R/misc/scatter3d.R"))
+require(plot3D)
+# linear fit
+fit <- lm(mpg ~ wt+disp)
+# predict on x-y grid, for surface
+wt.pred <- seq(1.5, 5.5, length.out = 30)
+disp.pred <- seq(71, 472, length.out = 30)
+xy <- expand.grid(wt = wt.pred,
+disp = disp.pred)
+mpg.pred <- matrix (nrow = 30, ncol = 30,
+data = predict(fit, newdata = data.frame(xy), interval = "prediction"))
+# predicted z-values, fitted points for droplines to surface
+fitpoints <- predict(fit)
+scatter3D(z = mpg, x = wt, y = disp, pch = 18, cex = 2,
+theta = 20, phi = 20, ticktype = "detailed",
+xlab = "wt", ylab = "disp", zlab = "mpg", clab = "mpg",
+surf = list(x = wt.pred, y = disp.pred, z = mpg.pred,
+facets = NA, fit = fitpoints),
+colkey = list(length = 0.8, width = 0.4),
+main = "mtcars")
+detach(mtcars)
+# TRY:
+# require(plot3Drgl)
+# plotrlg()
+library(htmlwidgets)
+library(threejs)
+library(R2HTML)
+# Create the data
+data <- rnorm(100, sd=15)+1:100
+# Create a simple scatterplot
+# with long labels to enhance
+# size comparison
+my_sc_plot <- function(data){
+par(cex.lab=1.5, cex.main=2)
+plot(data,
+main="A simple scatterplot",
+xlab="A random variable plotted",
+ylab="Some rnorm value",
+col="steelblue")
+x <- 1:100
+abline(lm(data~x), lwd=2)
+}
+my_sc_plot(data)
+puntos <- my_sc_plot(data)
+saveWidget(puntos, file="puntos.html")
+library(ggplot2)
+library(plotly)
+p <- ggplot(data = diamonds, aes(x = cut, fill = clarity)) +
+geom_bar(position = "dodge")
+ggplotly(p)
+saveWidget(ggplotly(p), file="puntos.html")
+library(ggplot2)
+library(plotly)
+d <- diamonds[sample(nrow(diamonds), 500), ]
+plot_ly(d, x = d$carat, y = d$price,
+text = paste("Clarity: ", d$clarity),
+mode = "markers", color = d$carat, size = d$carat)
+saveWidget(plot_ly(d, x = d$carat, y = d$price,
+text = paste("Clarity: ", d$clarity),
+mode = "markers", color = d$carat, size = d$carat), file="barras.html")
+library(tableHTML)
+#create an html table as string
+tableHTML(mtcars)
+#and to export in a file
+write_tableHTML(tableHTML(mtcars), file = 'tabla.html')
+library(tableHTML)
+#create an html table as string
+tableHTML(mtcars)
+#and to export in a file
+write_tableHTML(tableHTML(mtcars), file = 'tabla.html')
