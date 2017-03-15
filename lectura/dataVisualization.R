@@ -1,32 +1,36 @@
-#Libreria de imagen grafica
+#Importacion de librerias
+
+#Para trazos de graficos
 library(ggplot2)
 
-#Libreria de
+#Para la transformación del marco de los datos
 library(reshape2)
 
-#Libreria de 
+#Para personalizar los fondos
 library(ggthemes)
 
-#Libreria de 
+#Para insertar anotaciones y leyendas
 library(directlabels)
 
-#Libreria de 
+#Para manipulación de cadenas
 library(stringr)
 
 
-#Creacion de tabla con los datos capturados
+#Define el marco en el cual se trabajara, los rangos de edades y los valores
 suicides <- data.frame(age_group = c('15-24', '25-44', '45-64', '65-74', '75+'),t1999 = c(15,21,20,25,42),t2014 = c(18,23,30,26,39))
 
-#Asigna nombre a las filas de la tabla creada anteriormente
+#Asigna nombre a las filas de la tabla creada anteriormente, esto se realiza en variables
+#melt crea filas para cada variable
 suicides <- melt(suicides, id.vars = "age_group", variable.name = "year", value.name = "deaths")
 
-#
+#Convierten los datos en numero para ser analizados
 suicides$year <- as.numeric(substr(suicides$year, 2,5))
 
 #Busca el paquete instalado ggthemes en el equipo donde esta corriendo
 ls("package:ggthemes")[str_detect(ls("package:ggthemes"), "theme_")]
 
 #Crea la interfaz geometrica de los datos a agregar
+#Selecciona cual seran los ejer, colores, formas
 g <- ggplot(data = suicides, aes(x = year, y = deaths, color = age_group)) + geom_line(size = 1.2, alpha = 0.7) + geom_point()
 
 #Añade el color segun la escala a utilizar
@@ -35,7 +39,7 @@ g <- g + scale_color_manual(values = c("45-64" = "black", '15-24' = "darkturquoi
 #Limita los espacios de los datos a analizar
 g <- g + scale_x_continuous(breaks = c(1999, 2014), limits = c(1999, 2014.5), expand = c(0, 1)) + theme_wsj() 
 
-#
+#Lomota los espacios donde se colocan los datos en los ejes
 g <- g + scale_y_continuous(breaks = c(20, 30, 40))
 
 #Añade texto al grafico
