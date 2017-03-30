@@ -1,0 +1,763 @@
+COD_AN	PERIODO_ANIO	JORNADA_CODIGO	JORNADA_NOMBRE	NIVELENSE_CODIGO	NIVELENSE_NOMBRE	JORNCAP_CANTIDAD_HOMBRE	JORNCAP_CANTIDAD_MUJER
+0002488	2015	1	Completa	01	Preescolar	0	1
+0002488	2015	1	Completa	02	Básica primaria	16	11
+0002488	2015	1	Completa	03	Básica secundaria	3	1
+0002488	2015	1	Completa	04	Media	2	5
+0009047	2015	1	Completa	03	Básica secundaria	5	1
+0009047	2015	1	Completa	04	Media	3	0
+0011095	2015	2	Mañana	03	Básica secundaria	5	9
+0011095	2015	2	Mañana	04	Media	13	23
+0066849	2015	1	Completa	02	Básica primaria	0	1
+0054752	2015	2	Mañana	02	Básica primaria	0	1
+0009513	2015	3	Tarde	02	Básica primaria	0	1
+0065083	2015	1	Completa	01	Preescolar	1	0
+0056620	2015	2	Mañana	03	Básica secundaria	1	0
+0026086	2015	2	Mañana	02	Básica primaria	0	1
+0026086	2015	2	Mañana	03	Básica secundaria	0	1
+0026086	2015	2	Mañana	04	Media	0	1
+0068685	2015	1	Completa	01	Preescolar	1	0
+0009750	2015	2	Mañana	03	Básica secundaria	2	7
+0009750	2015	2	Mañana	04	Media	2	7
+0079979	2015	2	Mañana	02	Básica primaria	1	2
+0032696	2015	2	Mañana	02	Básica primaria	0	1
+0059393	2015	1	Completa	03	Básica secundaria	1	0
+0009313	2015	1	Completa	03	Básica secundaria	1	0
+0009313	2015	1	Completa	04	Media	1	1
+0009043	2015	3	Tarde	03	Básica secundaria	1	0
+0065235	2015	1	Completa	02	Básica primaria	1	0
+0032865	2015	2	Mañana	02	Básica primaria	1	1
+0065628	2015	1	Completa	01	Preescolar	1	0
+0004131	2015	2	Mañana	02	Básica primaria	1	0
+0043721	2015	2	Mañana	02	Básica primaria	0	1
+0008024	2015	2	Mañana	03	Básica secundaria	0	1
+0078910	2015	1	Completa	04	Media	1	0
+0009247	2015	3	Tarde	02	Básica primaria	5	0
+0012404	2015	2	Mañana	03	Básica secundaria	1	0
+0001940	2015	2	Mañana	03	Básica secundaria	1	2
+0001940	2015	2	Mañana	04	Media	2	1
+0001940	2015	3	Tarde	02	Básica primaria	5	1
+0002056	2015	3	Tarde	03	Básica secundaria	0	1
+0001922	2015	2	Mañana	01	Preescolar	1	0
+0001922	2015	2	Mañana	02	Básica primaria	3	3
+0071400	2015	5	Fin de Semana	05	CLEI (Ciclos lectivos integrados - decreto 3011 de 1997)	5	3
+0077555	2015	1	Completa	03	Básica secundaria	1	0
+0077555	2015	1	Completa	04	Media	1	0
+0031382	2015	2	Mañana	02	Básica primaria	1	0
+0032711	2015	2	Mañana	02	Básica primaria	1	0
+0015760	2015	2	Mañana	03	Básica secundaria	3	0
+0040969	2015	5	Fin de Semana	05	CLEI (Ciclos lectivos integrados - decreto 3011 de 1997)	0	2
+0026186	2015	1	Completa	02	Básica primaria	1	0
+0017649	2015	3	Tarde	02	Básica primaria	1	0
+0000093	2015	2	Mañana	03	Básica secundaria	1	0
+0008990	2015	3	Tarde	02	Básica primaria	0	1
+0043809	2015	2	Mañana	01	Preescolar	4	4
+0000042	2015	2	Mañana	02	Básica primaria	0	1
+0000258	2015	2	Mañana	02	Básica primaria	0	1
+0002211	2015	2	Mañana	02	Básica primaria	1	0
+0048104	2015	1	Completa	02	Básica primaria	1	0
+0072502	2015	1	Completa	02	Básica primaria	3	3
+0072502	2015	1	Completa	04	Media	0	1
+0058833	2015	2	Mañana	01	Preescolar	1	1
+0009217	2015	3	Tarde	02	Básica primaria	0	2
+0002211	2015	2	Mañana	03	Básica secundaria	2	0
+0061365	2015	2	Mañana	01	Preescolar	1	1
+0061365	2015	2	Mañana	03	Básica secundaria	2	2
+0061365	2015	2	Mañana	04	Media	2	1
+0073203	2015	2	Mañana	02	Básica primaria	1	0
+0013655	2015	1	Completa	01	Preescolar	0	1
+0011712	2015	2	Mañana	03	Básica secundaria	2	4
+0011712	2015	2	Mañana	04	Media	4	2
+0011712	2015	3	Tarde	02	Básica primaria	1	0
+0011712	2015	3	Tarde	03	Básica secundaria	1	1
+0073151	2015	2	Mañana	03	Básica secundaria	1	0
+0073151	2015	2	Mañana	04	Media	2	0
+0001446	2015	2	Mañana	03	Básica secundaria	1	5
+0036463	2015	1	Completa	04	Media	1	1
+0000911	2015	3	Tarde	04	Media	2	0
+0001446	2015	3	Tarde	02	Básica primaria	0	1
+0012786	2015	2	Mañana	03	Básica secundaria	1	0
+0076201	2015	2	Mañana	03	Básica secundaria	1	0
+0076201	2015	2	Mañana	04	Media	1	0
+0000080	2015	3	Tarde	02	Básica primaria	4	2
+0002298	2015	3	Tarde	03	Básica secundaria	1	0
+0070083	2015	2	Mañana	03	Básica secundaria	0	1
+0000008	2015	2	Mañana	03	Básica secundaria	2	0
+0000154	2015	2	Mañana	02	Básica primaria	1	0
+0000480	2015	2	Mañana	03	Básica secundaria	4	1
+0000480	2015	2	Mañana	04	Media	4	1
+0052292	2015	2	Mañana	01	Preescolar	4	3
+0052292	2015	2	Mañana	02	Básica primaria	13	18
+0007560	2015	2	Mañana	02	Básica primaria	0	2
+0052211	2015	2	Mañana	01	Preescolar	6	4
+0052211	2015	2	Mañana	02	Básica primaria	25	21
+0052211	2015	2	Mañana	03	Básica secundaria	40	48
+0052211	2015	2	Mañana	04	Media	6	4
+0011270	2015	2	Mañana	03	Básica secundaria	0	1
+0001043	2015	1	Completa	03	Básica secundaria	2	0
+0001043	2015	1	Completa	04	Media	2	0
+0066432	2015	2	Mañana	02	Básica primaria	1	0
+0000161	2015	2	Mañana	02	Básica primaria	1	4
+0008987	2015	1	Completa	03	Básica secundaria	1	1
+0008987	2015	1	Completa	04	Media	3	0
+0009339	2015	2	Mañana	04	Media	1	1
+0070101	2015	1	Completa	03	Básica secundaria	2	0
+0055323	2015	2	Mañana	03	Básica secundaria	2	2
+0072284	2015	2	Mañana	02	Básica primaria	1	0
+0016223	2015	1	Completa	02	Básica primaria	1	0
+0018401	2015	2	Mañana	03	Básica secundaria	0	1
+0018401	2015	3	Tarde	02	Básica primaria	0	1
+0009247	2015	2	Mañana	03	Básica secundaria	7	2
+0009247	2015	2	Mañana	04	Media	1	0
+0002183	2015	3	Tarde	03	Básica secundaria	5	2
+0002183	2015	3	Tarde	04	Media	6	1
+0031277	2015	1	Completa	03	Básica secundaria	1	0
+0071960	2015	1	Completa	02	Básica primaria	2	1
+0071960	2015	1	Completa	03	Básica secundaria	0	2
+0071960	2015	1	Completa	04	Media	3	0
+0075867	2015	2	Mañana	02	Básica primaria	0	1
+0008192	2015	2	Mañana	03	Básica secundaria	1	0
+0013163	2015	1	Completa	02	Básica primaria	0	1
+0024923	2015	2	Mañana	01	Preescolar	3	7
+0024923	2015	2	Mañana	02	Básica primaria	34	23
+0041121	2015	2	Mañana	02	Básica primaria	1	0
+0041121	2015	2	Mañana	03	Básica secundaria	2	1
+0041121	2015	2	Mañana	04	Media	0	1
+0000064	2015	2	Mañana	02	Básica primaria	1	0
+0000766	2015	1	Completa	02	Básica primaria	1	0
+0000766	2015	1	Completa	03	Básica secundaria	4	3
+0000766	2015	1	Completa	04	Media	3	1
+0065638	2015	1	Completa	02	Básica primaria	2	0
+0009736	2015	2	Mañana	03	Básica secundaria	1	0
+0001449	2015	1	Completa	03	Básica secundaria	30	20
+0040969	2015	2	Mañana	02	Básica primaria	16	10
+0040969	2015	2	Mañana	03	Básica secundaria	8	2
+0040969	2015	2	Mañana	04	Media	1	0
+0071839	2015	2	Mañana	02	Básica primaria	0	1
+0058767	2015	2	Mañana	03	Básica secundaria	1	0
+0010870	2015	2	Mañana	02	Básica primaria	2	1
+0017281	2015	1	Completa	03	Básica secundaria	1	0
+0000301	2015	3	Tarde	04	Media	0	1
+0009217	2015	2	Mañana	03	Básica secundaria	0	2
+0014932	2015	1	Completa	02	Básica primaria	0	1
+0002211	2015	3	Tarde	02	Básica primaria	1	1
+0061365	2015	3	Tarde	02	Básica primaria	1	1
+0050620	2015	2	Mañana	02	Básica primaria	1	0
+0011703	2015	3	Tarde	02	Básica primaria	1	0
+0007586	2015	2	Mañana	02	Básica primaria	1	0
+0009380	2015	2	Mañana	03	Básica secundaria	2	2
+0009380	2015	2	Mañana	04	Media	4	0
+0069874	2015	1	Completa	03	Básica secundaria	2	3
+0015490	2015	1	Completa	02	Básica primaria	2	3
+0001223	2015	1	Completa	03	Básica secundaria	1	0
+0008674	2015	2	Mañana	02	Básica primaria	0	1
+0010751	2015	2	Mañana	02	Básica primaria	1	0
+0000281	2015	2	Mañana	03	Básica secundaria	3	1
+0000890	2015	2	Mañana	03	Básica secundaria	1	0
+0000890	2015	2	Mañana	04	Media	2	0
+0000228	2015	2	Mañana	02	Básica primaria	7	1
+0020031	2015	1	Completa	02	Básica primaria	1	1
+0000900	2015	2	Mañana	03	Básica secundaria	1	0
+0000214	2015	2	Mañana	02	Básica primaria	1	1
+0062159	2015	1	Completa	02	Básica primaria	0	1
+0062159	2015	1	Completa	03	Básica secundaria	0	2
+0062159	2015	1	Completa	04	Media	0	1
+0052269	2015	2	Mañana	02	Básica primaria	6	3
+0039655	2015	2	Mañana	03	Básica secundaria	8	12
+0000281	2015	3	Tarde	03	Básica secundaria	2	3
+0000281	2015	3	Tarde	04	Media	2	1
+0000281	2015	2	Mañana	02	Básica primaria	1	0
+0000281	2015	2	Mañana	04	Media	1	0
+0000028	2015	2	Mañana	02	Básica primaria	0	1
+0003881	2015	1	Completa	04	Media	1	0
+0059317	2015	2	Mañana	02	Básica primaria	0	4
+0059317	2015	3	Tarde	01	Preescolar	1	0
+0015551	2015	1	Completa	02	Básica primaria	7	6
+0052267	2015	2	Mañana	01	Preescolar	0	3
+0052267	2015	2	Mañana	02	Básica primaria	7	9
+0052295	2015	2	Mañana	01	Preescolar	1	2
+0052295	2015	2	Mañana	02	Básica primaria	9	4
+0025454	2015	1	Completa	02	Básica primaria	27	30
+0021672	2015	1	Completa	01	Preescolar	4	0
+0061532	2015	3	Tarde	03	Básica secundaria	2	0
+0000026	2015	2	Mañana	03	Básica secundaria	1	0
+0000161	2015	3	Tarde	02	Básica primaria	1	1
+0009048	2015	3	Tarde	02	Básica primaria	1	0
+0050120	2015	2	Mañana	02	Básica primaria	1	0
+0012681	2015	2	Mañana	02	Básica primaria	0	1
+0012681	2015	2	Mañana	03	Básica secundaria	1	1
+0009360	2015	2	Mañana	03	Básica secundaria	0	1
+0073279	2015	2	Mañana	02	Básica primaria	2	1
+0009413	2015	4	Nocturna	05	CLEI (Ciclos lectivos integrados - decreto 3011 de 1997)	1	0
+0009198	2015	3	Tarde	02	Básica primaria	3	0
+0011528	2015	4	Nocturna	05	CLEI (Ciclos lectivos integrados - decreto 3011 de 1997)	2	0
+0009015	2015	1	Completa	03	Básica secundaria	1	1
+0007966	2015	3	Tarde	04	Media	0	1
+0067501	2015	2	Mañana	02	Básica primaria	1	0
+0009010	2015	2	Mañana	04	Media	1	0
+0009135	2015	2	Mañana	02	Básica primaria	1	0
+0011095	2015	3	Tarde	03	Básica secundaria	20	25
+0009339	2015	3	Tarde	04	Media	1	1
+0046726	2015	1	Completa	01	Preescolar	2	0
+0046726	2015	1	Completa	02	Básica primaria	1	0
+0069210	2015	1	Completa	01	Preescolar	2	0
+0007817	2015	2	Mañana	02	Básica primaria	1	0
+0031717	2015	2	Mañana	03	Básica secundaria	1	0
+0047191	2015	2	Mañana	02	Básica primaria	0	2
+0046136	2015	2	Mañana	02	Básica primaria	5	3
+0071963	2015	3	Tarde	02	Básica primaria	1	1
+0071963	2015	3	Tarde	03	Básica secundaria	1	1
+0009497	2015	3	Tarde	02	Básica primaria	1	0
+0046151	2015	2	Mañana	01	Preescolar	0	1
+0024269	2015	2	Mañana	02	Básica primaria	1	0
+0069419	2015	1	Completa	02	Básica primaria	1	0
+0002183	2015	2	Mañana	03	Básica secundaria	22	2
+0002183	2015	2	Mañana	04	Media	3	2
+0032315	2015	2	Mañana	02	Básica primaria	1	0
+0031397	2015	2	Mañana	02	Básica primaria	0	2
+0058856	2015	2	Mañana	02	Básica primaria	1	0
+0007185	2015	1	Completa	03	Básica secundaria	3	1
+0080620	2015	2	Mañana	02	Básica primaria	2	0
+0072937	2015	2	Mañana	02	Básica primaria	0	1
+0069419	2015	1	Completa	03	Básica secundaria	2	1
+0069419	2015	1	Completa	04	Media	2	0
+0010091	2015	1	Completa	02	Básica primaria	0	2
+0062306	2015	1	Completa	02	Básica primaria	13	9
+0062306	2015	1	Completa	03	Básica secundaria	33	18
+0009552	2015	2	Mañana	04	Media	0	1
+0009552	2015	3	Tarde	04	Media	1	0
+0003737	2015	2	Mañana	04	Media	1	0
+0003737	2015	3	Tarde	03	Básica secundaria	2	0
+0067377	2015	1	Completa	03	Básica secundaria	1	0
+0024803	2015	2	Mañana	02	Básica primaria	1	0
+0013608	2015	1	Completa	02	Básica primaria	0	1
+0005508	2015	2	Mañana	01	Preescolar	9	8
+0005508	2015	2	Mañana	02	Básica primaria	10	10
+0026002	2015	2	Mañana	02	Básica primaria	1	0
+0033359	2015	2	Mañana	01	Preescolar	0	1
+0000034	2015	2	Mañana	03	Básica secundaria	2	1
+0078820	2015	1	Completa	03	Básica secundaria	1	0
+0015723	2015	2	Mañana	03	Básica secundaria	2	0
+0005508	2015	3	Tarde	01	Preescolar	4	5
+0005508	2015	3	Tarde	02	Básica primaria	5	5
+0005508	2015	3	Tarde	03	Básica secundaria	3	4
+0005508	2015	3	Tarde	04	Media	2	3
+0000131	2015	2	Mañana	02	Básica primaria	1	0
+0028544	2015	2	Mañana	03	Básica secundaria	1	1
+0045623	2015	2	Mañana	02	Básica primaria	0	1
+0012786	2015	3	Tarde	02	Básica primaria	0	1
+0000254	2015	3	Tarde	03	Básica secundaria	0	1
+0006677	2015	1	Completa	04	Media	1	1
+0015121	2015	2	Mañana	02	Básica primaria	1	0
+0052259	2015	2	Mañana	01	Preescolar	2	3
+0052259	2015	2	Mañana	02	Básica primaria	17	17
+0052259	2015	2	Mañana	03	Básica secundaria	6	4
+0000601	2015	2	Mañana	03	Básica secundaria	6	7
+0000601	2015	2	Mañana	04	Media	2	1
+0002298	2015	2	Mañana	03	Básica secundaria	2	0
+0058874	2015	2	Mañana	01	Preescolar	1	0
+0014738	2015	1	Completa	02	Básica primaria	1	0
+0016078	2015	1	Completa	01	Preescolar	1	0
+0016078	2015	1	Completa	02	Básica primaria	0	1
+0000825	2015	1	Completa	04	Media	1	1
+0000825	2015	2	Mañana	03	Básica secundaria	1	1
+0050635	2015	2	Mañana	02	Básica primaria	0	1
+0015194	2015	1	Completa	02	Básica primaria	1	1
+0038743	2015	2	Mañana	02	Básica primaria	8	5
+0027022	2015	2	Mañana	02	Básica primaria	9	8
+0068127	2015	2	Mañana	02	Básica primaria	10	17
+0009026	2015	5	Fin de Semana	05	CLEI (Ciclos lectivos integrados - decreto 3011 de 1997)	1	0
+0038716	2015	3	Tarde	02	Básica primaria	7	9
+0079894	2015	2	Mañana	02	Básica primaria	2	2
+0000940	2015	2	Mañana	04	Media	1	0
+0017283	2015	1	Completa	02	Básica primaria	1	0
+0004309	2015	2	Mañana	03	Básica secundaria	1	0
+0069805	2015	2	Mañana	03	Básica secundaria	1	0
+0069805	2015	2	Mañana	04	Media	1	0
+0029223	2015	2	Mañana	01	Preescolar	0	1
+0076853	2015	2	Mañana	05	CLEI (Ciclos lectivos integrados - decreto 3011 de 1997)	1	0
+0022384	2015	1	Completa	02	Básica primaria	0	1
+0006935	2015	2	Mañana	02	Básica primaria	2	1
+0006935	2015	3	Tarde	02	Básica primaria	2	2
+0061333	2015	1	Completa	02	Básica primaria	0	1
+0006938	2015	2	Mañana	02	Básica primaria	2	0
+0005722	2015	2	Mañana	02	Básica primaria	2	0
+0061273	2015	2	Mañana	01	Preescolar	1	0
+0011741	2015	2	Mañana	03	Básica secundaria	1	0
+0066817	2015	1	Completa	02	Básica primaria	2	0
+0055719	2015	2	Mañana	01	Preescolar	0	1
+0055719	2015	2	Mañana	03	Básica secundaria	1	1
+0000080	2015	2	Mañana	02	Básica primaria	1	0
+0011081	2015	2	Mañana	02	Básica primaria	0	1
+0015259	2015	1	Completa	02	Básica primaria	1	0
+0075815	2015	2	Mañana	02	Básica primaria	2	0
+0001122	2015	1	Completa	02	Básica primaria	1	0
+0007929	2015	2	Mañana	02	Básica primaria	1	0
+0014139	2015	1	Completa	02	Básica primaria	0	1
+0018573	2015	2	Mañana	03	Básica secundaria	1	1
+0032694	2015	2	Mañana	02	Básica primaria	1	1
+0009511	2015	1	Completa	04	Media	0	1
+0014331	2015	1	Completa	02	Básica primaria	0	1
+0051466	2015	2	Mañana	04	Media	1	3
+0063945	2015	1	Completa	02	Básica primaria	1	0
+0004753	2015	1	Completa	04	Media	1	0
+0061085	2015	2	Mañana	01	Preescolar	2	2
+0078429	2015	2	Mañana	01	Preescolar	1	0
+0040969	2015	4	Nocturna	05	CLEI (Ciclos lectivos integrados - decreto 3011 de 1997)	0	2
+0060905	2015	2	Mañana	01	Preescolar	0	1
+0047194	2015	2	Mañana	02	Básica primaria	0	1
+0060164	2015	2	Mañana	02	Básica primaria	0	1
+0004481	2015	1	Completa	02	Básica primaria	1	0
+0001050	2015	2	Mañana	03	Básica secundaria	1	0
+0068869	2015	1	Completa	01	Preescolar	0	2
+0068869	2015	1	Completa	03	Básica secundaria	1	0
+0011947	2015	3	Tarde	02	Básica primaria	1	0
+0039437	2015	2	Mañana	02	Básica primaria	3	3
+0039437	2015	2	Mañana	03	Básica secundaria	7	5
+0039437	2015	2	Mañana	04	Media	3	1
+0058895	2015	1	Completa	02	Básica primaria	2	0
+0039426	2015	2	Mañana	02	Básica primaria	2	3
+0009695	2015	2	Mañana	03	Básica secundaria	2	3
+0039139	2015	2	Mañana	03	Básica secundaria	3	2
+0040933	2015	2	Mañana	02	Básica primaria	1	2
+0069348	2015	1	Completa	02	Básica primaria	1	0
+0062771	2015	1	Completa	01	Preescolar	1	0
+0062771	2015	1	Completa	02	Básica primaria	6	5
+0062771	2015	1	Completa	03	Básica secundaria	7	0
+0062771	2015	1	Completa	04	Media	1	0
+0014860	2015	1	Completa	02	Básica primaria	0	1
+0000053	2015	2	Mañana	02	Básica primaria	1	0
+0014652	2015	2	Mañana	01	Preescolar	0	1
+0014652	2015	2	Mañana	02	Básica primaria	4	2
+0003941	2015	1	Completa	01	Preescolar	0	1
+0000882	2015	2	Mañana	04	Media	0	1
+0067880	2015	2	Mañana	03	Básica secundaria	1	0
+0012786	2015	2	Mañana	02	Básica primaria	0	1
+0074491	2015	1	Completa	01	Preescolar	1	0
+0052250	2015	2	Mañana	02	Básica primaria	19	21
+0000895	2015	3	Tarde	02	Básica primaria	1	0
+0074491	2015	1	Completa	02	Básica primaria	2	1
+0074491	2015	1	Completa	03	Básica secundaria	1	1
+0074491	2015	1	Completa	04	Media	1	0
+0058760	2015	2	Mañana	03	Básica secundaria	3	0
+0074529	2015	3	Tarde	02	Básica primaria	0	1
+0026599	2015	2	Mañana	02	Básica primaria	8	2
+0039479	2015	2	Mañana	02	Básica primaria	0	1
+0000601	2015	3	Tarde	01	Preescolar	0	1
+0000601	2015	3	Tarde	02	Básica primaria	7	7
+0003882	2015	1	Completa	02	Básica primaria	1	1
+0025118	2015	2	Mañana	03	Básica secundaria	1	0
+0001951	2015	2	Mañana	02	Básica primaria	1	0
+0069535	2015	1	Completa	03	Básica secundaria	1	0
+0052250	2015	2	Mañana	01	Preescolar	3	2
+0015906	2015	1	Completa	02	Básica primaria	0	1
+0062228	2015	1	Completa	03	Básica secundaria	0	1
+0050187	2015	2	Mañana	02	Básica primaria	9	8
+0059689	2015	2	Mañana	02	Básica primaria	1	1
+0061407	2015	2	Mañana	01	Preescolar	1	1
+0075939	2015	3	Tarde	01	Preescolar	2	2
+0068048	2015	2	Mañana	02	Básica primaria	47	53
+0004818	2015	2	Mañana	03	Básica secundaria	1	1
+0038716	2015	2	Mañana	03	Básica secundaria	11	6
+0009026	2015	1	Completa	03	Básica secundaria	2	0
+0009026	2015	1	Completa	04	Media	0	2
+0002543	2015	2	Mañana	02	Básica primaria	1	1
+0023123	2015	2	Mañana	01	Preescolar	2	0
+0023123	2015	2	Mañana	02	Básica primaria	5	5
+0038966	2015	2	Mañana	02	Básica primaria	0	1
+0000912	2015	3	Tarde	02	Básica primaria	2	0
+0068048	2015	2	Mañana	01	Preescolar	14	17
+0004422	2015	1	Completa	03	Básica secundaria	15	11
+0004422	2015	1	Completa	04	Media	4	0
+0066491	2015	2	Mañana	02	Básica primaria	1	1
+0000196	2015	2	Mañana	02	Básica primaria	1	1
+0000044	2015	2	Mañana	02	Básica primaria	1	0
+0074285	2015	1	Completa	02	Básica primaria	1	0
+0074285	2015	1	Completa	03	Básica secundaria	1	0
+0059550	2015	1	Completa	02	Básica primaria	1	0
+0000044	2015	3	Tarde	04	Media	2	1
+0009198	2015	2	Mañana	03	Básica secundaria	11	1
+0055774	2015	3	Tarde	02	Básica primaria	1	0
+0005406	2015	3	Tarde	02	Básica primaria	1	0
+0056620	2015	2	Mañana	04	Media	2	0
+0004208	2015	1	Completa	03	Básica secundaria	1	0
+0010149	2015	2	Mañana	02	Básica primaria	1	0
+0021820	2015	1	Completa	02	Básica primaria	1	0
+0061085	2015	1	Completa	02	Básica primaria	1	0
+0004084	2015	2	Mañana	03	Básica secundaria	0	1
+0001050	2015	2	Mañana	04	Media	1	0
+0009213	2015	2	Mañana	03	Básica secundaria	4	9
+0071963	2015	2	Mañana	02	Básica primaria	3	0
+0011086	2015	2	Mañana	02	Básica primaria	2	0
+0006659	2015	2	Mañana	03	Básica secundaria	15	13
+0067361	2015	2	Mañana	02	Básica primaria	1	0
+0063859	2015	1	Completa	03	Básica secundaria	3	0
+0033104	2015	2	Mañana	04	Media	2	0
+0011738	2015	2	Mañana	03	Básica secundaria	0	37
+0011738	2015	2	Mañana	04	Media	0	11
+0001922	2015	3	Tarde	02	Básica primaria	3	1
+0058895	2015	1	Completa	03	Básica secundaria	1	1
+0060427	2015	2	Mañana	01	Preescolar	1	0
+0060427	2015	2	Mañana	03	Básica secundaria	10	7
+0060427	2015	2	Mañana	04	Media	2	3
+0024780	2015	2	Mañana	02	Básica primaria	1	1
+0026530	2015	1	Completa	03	Básica secundaria	1	0
+0024941	2015	2	Mañana	02	Básica primaria	3	2
+0000346	2015	3	Tarde	03	Básica secundaria	0	1
+0001449	2015	2	Mañana	02	Básica primaria	5	6
+0002717	2015	2	Mañana	02	Básica primaria	0	1
+0031328	2015	2	Mañana	02	Básica primaria	0	1
+0004130	2015	2	Mañana	02	Básica primaria	1	0
+0000042	2015	3	Tarde	02	Básica primaria	1	0
+0000292	2015	3	Tarde	02	Básica primaria	1	0
+0000100	2015	3	Tarde	03	Básica secundaria	0	1
+0059929	2015	1	Completa	02	Básica primaria	1	0
+0009677	2015	3	Tarde	02	Básica primaria	1	0
+0014639	2015	2	Mañana	02	Básica primaria	0	1
+0025955	2015	1	Completa	02	Básica primaria	3	2
+0021465	2015	1	Completa	02	Básica primaria	0	1
+0071471	2015	2	Mañana	03	Básica secundaria	0	1
+0072688	2015	2	Mañana	01	Preescolar	1	0
+0011087	2015	2	Mañana	02	Básica primaria	0	1
+0081130	2015	2	Mañana	02	Básica primaria	2	3
+0060036	2015	1	Completa	02	Básica primaria	1	0
+0060036	2015	1	Completa	04	Media	0	1
+0004595	2015	2	Mañana	04	Media	1	0
+0052247	2015	2	Mañana	02	Básica primaria	3	2
+0000008	2015	3	Tarde	02	Básica primaria	0	1
+0020642	2015	2	Mañana	02	Básica primaria	0	1
+0000915	2015	2	Mañana	03	Básica secundaria	1	0
+0017476	2015	2	Mañana	02	Básica primaria	3	3
+0010407	2015	2	Mañana	01	Preescolar	5	3
+0010407	2015	2	Mañana	02	Básica primaria	25	45
+0010407	2015	2	Mañana	03	Básica secundaria	10	20
+0038726	2015	2	Mañana	02	Básica primaria	4	3
+0021681	2015	1	Completa	02	Básica primaria	1	0
+0011270	2015	3	Tarde	03	Básica secundaria	1	0
+0070634	2015	2	Mañana	01	Preescolar	18	16
+0070634	2015	2	Mañana	02	Básica primaria	29	53
+0020054	2015	1	Completa	03	Básica secundaria	1	0
+0053728	2015	2	Mañana	03	Básica secundaria	1	1
+0013760	2015	2	Mañana	02	Básica primaria	0	2
+0013760	2015	2	Mañana	03	Básica secundaria	1	4
+0000819	2015	1	Completa	03	Básica secundaria	0	1
+0038954	2015	2	Mañana	03	Básica secundaria	2	2
+0006936	2015	1	Completa	03	Básica secundaria	3	1
+0067575	2015	3	Tarde	02	Básica primaria	0	1
+0001683	2015	3	Tarde	04	Media	0	2
+0007966	2015	2	Mañana	03	Básica secundaria	0	2
+0033404	2015	2	Mañana	04	Media	1	0
+0002245	2015	3	Tarde	03	Básica secundaria	1	0
+0065319	2015	1	Completa	01	Preescolar	1	0
+0011180	2015	3	Tarde	02	Básica primaria	1	0
+0001284	2015	2	Mañana	03	Básica secundaria	2	0
+0001284	2015	3	Tarde	02	Básica primaria	1	1
+0009375	2015	2	Mañana	02	Básica primaria	0	1
+0067079	2015	1	Completa	02	Básica primaria	1	0
+0007374	2015	2	Mañana	03	Básica secundaria	1	0
+0007374	2015	2	Mañana	04	Media	1	0
+0078718	2015	3	Tarde	03	Básica secundaria	2	0
+0059200	2015	2	Mañana	02	Básica primaria	2	2
+0059200	2015	2	Mañana	03	Básica secundaria	0	1
+0068594	2015	2	Mañana	02	Básica primaria	0	1
+0009222	2015	2	Mañana	03	Básica secundaria	3	3
+0009221	2015	2	Mañana	02	Básica primaria	30	27
+0009221	2015	3	Tarde	03	Básica secundaria	55	53
+0009221	2015	3	Tarde	04	Media	25	38
+0012353	2015	3	Tarde	03	Básica secundaria	1	1
+0009116	2015	2	Mañana	03	Básica secundaria	1	0
+0012296	2015	2	Mañana	03	Básica secundaria	1	0
+0030530	2015	2	Mañana	02	Básica primaria	1	1
+0000748	2015	3	Tarde	02	Básica primaria	1	1
+0009243	2015	3	Tarde	02	Básica primaria	1	0
+0009574	2015	3	Tarde	03	Básica secundaria	0	1
+0003952	2015	1	Completa	04	Media	1	0
+0069542	2015	1	Completa	02	Básica primaria	1	0
+0069542	2015	1	Completa	03	Básica secundaria	2	2
+0069542	2015	1	Completa	04	Media	2	2
+0025014	2015	1	Completa	01	Preescolar	6	1
+0025014	2015	1	Completa	02	Básica primaria	30	18
+0024775	2015	2	Mañana	02	Básica primaria	1	0
+0046370	2015	2	Mañana	03	Básica secundaria	1	0
+0010326	2015	2	Mañana	03	Básica secundaria	1	0
+0072713	2015	2	Mañana	02	Básica primaria	2	3
+0029881	2015	2	Mañana	01	Preescolar	4	4
+0029881	2015	2	Mañana	02	Básica primaria	15	14
+0009873	2015	2	Mañana	03	Básica secundaria	1	0
+0077621	2015	2	Mañana	02	Básica primaria	1	0
+0006170	2015	2	Mañana	04	Media	0	1
+0000902	2015	2	Mañana	03	Básica secundaria	1	0
+0033393	2015	2	Mañana	04	Media	0	1
+0073446	2015	1	Completa	02	Básica primaria	1	1
+0005743	2015	2	Mañana	02	Básica primaria	0	1
+0041042	2015	2	Mañana	01	Preescolar	1	0
+0005981	2015	2	Mañana	03	Básica secundaria	1	0
+0002482	2015	3	Tarde	02	Básica primaria	0	1
+0073948	2015	1	Completa	02	Básica primaria	3	0
+0073948	2015	1	Completa	03	Básica secundaria	5	0
+0073948	2015	1	Completa	04	Media	5	2
+0016644	2015	2	Mañana	02	Básica primaria	1	0
+0006084	2015	3	Tarde	02	Básica primaria	0	1
+0075902	2015	1	Completa	01	Preescolar	1	0
+0080507	2015	2	Mañana	03	Básica secundaria	0	1
+0064328	2015	1	Completa	03	Básica secundaria	1	0
+0067581	2015	5	Fin de Semana	05	CLEI (Ciclos lectivos integrados - decreto 3011 de 1997)	2	2
+0011164	2015	2	Mañana	02	Básica primaria	2	0
+0065704	2015	1	Completa	02	Básica primaria	1	0
+0009225	2015	2	Mañana	02	Básica primaria	0	1
+0038708	2015	2	Mañana	01	Preescolar	3	6
+0038708	2015	2	Mañana	02	Básica primaria	9	8
+0011741	2015	2	Mañana	04	Media	1	2
+0011133	2015	3	Tarde	02	Básica primaria	1	0
+0011702	2015	3	Tarde	03	Básica secundaria	0	1
+0000181	2015	2	Mañana	03	Básica secundaria	1	0
+0081721	2015	2	Mañana	02	Básica primaria	0	1
+0010520	2015	3	Tarde	03	Básica secundaria	3	3
+0006746	2015	2	Mañana	03	Básica secundaria	1	5
+0006746	2015	2	Mañana	04	Media	0	1
+0049516	2015	1	Completa	02	Básica primaria	1	0
+0078275	2015	2	Mañana	01	Preescolar	0	1
+0068902	2015	1	Completa	03	Básica secundaria	1	1
+0068902	2015	1	Completa	04	Media	0	1
+0040971	2015	2	Mañana	02	Básica primaria	2	2
+0001064	2015	2	Mañana	02	Básica primaria	2	0
+0009281	2015	2	Mañana	01	Preescolar	0	1
+0009281	2015	2	Mañana	02	Básica primaria	31	34
+0009281	2015	2	Mañana	04	Media	0	1
+0009281	2015	2	Mañana	06	Otros modelos educativos para jóvenes y adultos	0	1
+0011305	2015	2	Mañana	02	Básica primaria	0	1
+0066396	2015	2	Mañana	02	Básica primaria	1	0
+0071503	2015	2	Mañana	03	Básica secundaria	0	1
+0069946	2015	5	Fin de Semana	05	CLEI (Ciclos lectivos integrados - decreto 3011 de 1997)	2	0
+0004444	2015	3	Tarde	03	Básica secundaria	2	1
+0004444	2015	3	Tarde	04	Media	1	0
+0017570	2015	3	Tarde	02	Básica primaria	0	1
+0065842	2015	1	Completa	02	Básica primaria	4	0
+0074347	2015	2	Mañana	02	Básica primaria	2	3
+0008392	2015	3	Tarde	03	Básica secundaria	0	1
+0037098	2015	2	Mañana	02	Básica primaria	0	2
+0068449	2015	2	Mañana	01	Preescolar	1	2
+0061715	2015	3	Tarde	03	Básica secundaria	0	2
+0043075	2015	2	Mañana	04	Media	2	0
+0067728	2015	2	Mañana	01	Preescolar	2	1
+0001634	2015	2	Mañana	03	Básica secundaria	0	1
+0077011	2015	2	Mañana	01	Preescolar	1	0
+0080455	2015	1	Completa	02	Básica primaria	0	1
+0059865	2015	2	Mañana	05	CLEI (Ciclos lectivos integrados - decreto 3011 de 1997)	1	5
+0066777	2015	2	Mañana	02	Básica primaria	3	4
+0077645	2015	4	Nocturna	05	CLEI (Ciclos lectivos integrados - decreto 3011 de 1997)	2	1
+0041049	2015	2	Mañana	02	Básica primaria	0	1
+0009337	2015	2	Mañana	03	Básica secundaria	1	0
+0009574	2015	2	Mañana	03	Básica secundaria	1	0
+0009574	2015	2	Mañana	04	Media	0	1
+0000033	2015	2	Mañana	02	Básica primaria	1	0
+0026909	2015	2	Mañana	01	Preescolar	1	1
+0009228	2015	3	Tarde	02	Básica primaria	28	19
+0081379	2015	1	Completa	01	Preescolar	12	11
+0001110	2015	1	Completa	02	Básica primaria	1	0
+0061278	2015	1	Completa	01	Preescolar	1	1
+0045863	2015	3	Tarde	03	Básica secundaria	1	0
+0068448	2015	1	Completa	02	Básica primaria	0	2
+0031294	2015	1	Completa	02	Básica primaria	1	0
+0007175	2015	1	Completa	02	Básica primaria	0	1
+0007175	2015	1	Completa	03	Básica secundaria	2	0
+0068448	2015	1	Completa	01	Preescolar	0	1
+0006034	2015	2	Mañana	02	Básica primaria	0	1
+0072864	2015	2	Mañana	02	Básica primaria	2	3
+0072864	2015	3	Tarde	01	Preescolar	4	6
+0068631	2015	5	Fin de Semana	05	CLEI (Ciclos lectivos integrados - decreto 3011 de 1997)	89	67
+0039336	2015	2	Mañana	02	Básica primaria	1	0
+0082408	2015	1	Completa	02	Básica primaria	1	1
+0076711	2015	1	Completa	03	Básica secundaria	1	0
+0079205	2015	2	Mañana	02	Básica primaria	9	13
+0034380	2015	5	Fin de Semana	06	Otros modelos educativos para jóvenes y adultos	5	5
+0081354	2015	1	Completa	01	Preescolar	3	2
+0081354	2015	1	Completa	02	Básica primaria	2	2
+0028484	2015	2	Mañana	02	Básica primaria	2	0
+0028484	2015	2	Mañana	03	Básica secundaria	3	3
+0028484	2015	2	Mañana	04	Media	9	2
+0072580	2015	2	Mañana	02	Básica primaria	2	0
+0046874	2015	3	Tarde	02	Básica primaria	0	1
+0000891	2015	1	Completa	03	Básica secundaria	2	0
+0005744	2015	2	Mañana	02	Básica primaria	0	1
+0072095	2015	3	Tarde	01	Preescolar	0	1
+0003713	2015	2	Mañana	02	Básica primaria	0	1
+0080417	2015	2	Mañana	01	Preescolar	7	13
+0048265	2015	2	Mañana	02	Básica primaria	0	1
+0026888	2015	2	Mañana	03	Básica secundaria	0	1
+0009228	2015	2	Mañana	03	Básica secundaria	42	12
+0009228	2015	2	Mañana	04	Media	13	3
+0070170	2015	1	Completa	03	Básica secundaria	6	0
+0066893	2015	1	Completa	01	Preescolar	0	1
+0066893	2015	1	Completa	03	Básica secundaria	2	1
+0066893	2015	1	Completa	04	Media	2	1
+0009036	2015	2	Mañana	03	Básica secundaria	1	0
+0008262	2015	2	Mañana	02	Básica primaria	2	2
+0008193	2015	2	Mañana	02	Básica primaria	2	4
+0008193	2015	2	Mañana	03	Básica secundaria	3	4
+0008193	2015	2	Mañana	04	Media	2	3
+0068739	2015	2	Mañana	01	Preescolar	4	5
+0068739	2015	2	Mañana	02	Básica primaria	24	16
+0011545	2015	5	Fin de Semana	05	CLEI (Ciclos lectivos integrados - decreto 3011 de 1997)	3	5
+0073127	2015	2	Mañana	02	Básica primaria	0	1
+0011545	2015	2	Mañana	01	Preescolar	2	2
+0011545	2015	2	Mañana	02	Básica primaria	1	3
+0011509	2015	3	Tarde	02	Básica primaria	0	1
+0000922	2015	3	Tarde	02	Básica primaria	1	0
+0017570	2015	2	Mañana	03	Básica secundaria	1	1
+0061359	2015	3	Tarde	03	Básica secundaria	2	3
+0058409	2015	2	Mañana	01	Preescolar	0	1
+0058409	2015	2	Mañana	02	Básica primaria	3	2
+0058409	2015	2	Mañana	03	Básica secundaria	1	1
+0058409	2015	2	Mañana	04	Media	1	1
+0034548	2015	5	Fin de Semana	06	Otros modelos educativos para jóvenes y adultos	2	0
+0081669	2015	1	Completa	02	Básica primaria	0	1
+0009842	2015	3	Tarde	02	Básica primaria	0	1
+0066323	2015	2	Mañana	04	Media	1	0
+0000827	2015	2	Mañana	02	Básica primaria	1	0
+0001891	2015	3	Tarde	03	Básica secundaria	1	1
+0026918	2015	2	Mañana	02	Básica primaria	1	0
+0010523	2015	3	Tarde	01	Preescolar	1	1
+0055432	2015	2	Mañana	02	Básica primaria	2	2
+0041734	2015	2	Mañana	03	Básica secundaria	1	0
+0009021	2015	2	Mañana	03	Básica secundaria	2	0
+0077543	2015	2	Mañana	01	Preescolar	1	0
+0041734	2015	2	Mañana	04	Media	1	0
+0010523	2015	3	Tarde	02	Básica primaria	3	3
+0009228	2015	4	Nocturna	05	CLEI (Ciclos lectivos integrados - decreto 3011 de 1997)	1	0
+0004285	2015	2	Mañana	04	Media	1	0
+0005862	2015	2	Mañana	02	Básica primaria	1	0
+0024992	2015	2	Mañana	01	Preescolar	3	0
+0024992	2015	2	Mañana	02	Básica primaria	6	4
+0024992	2015	2	Mañana	03	Básica secundaria	1	4
+0024992	2015	2	Mañana	04	Media	0	1
+0058528	2015	2	Mañana	01	Preescolar	4	1
+0058528	2015	2	Mañana	02	Básica primaria	2	1
+0007742	2015	3	Tarde	02	Básica primaria	1	0
+0023459	2015	2	Mañana	02	Básica primaria	1	0
+0061512	2015	2	Mañana	02	Básica primaria	1	0
+0069449	2015	1	Completa	03	Básica secundaria	1	0
+0006248	2015	2	Mañana	04	Media	0	1
+0082424	2015	1	Completa	02	Básica primaria	1	1
+0061666	2015	2	Mañana	01	Preescolar	4	0
+0061666	2015	2	Mañana	03	Básica secundaria	1	0
+0080796	2015	3	Tarde	01	Preescolar	1	1
+0048601	2015	2	Mañana	03	Básica secundaria	0	1
+0000852	2015	2	Mañana	03	Básica secundaria	4	2
+0000852	2015	2	Mañana	04	Media	4	0
+0009417	2015	2	Mañana	02	Básica primaria	4	0
+0055685	2015	5	Fin de Semana	05	CLEI (Ciclos lectivos integrados - decreto 3011 de 1997)	2	2
+0058710	2015	1	Completa	02	Básica primaria	1	0
+0058710	2015	1	Completa	03	Básica secundaria	1	0
+0008195	2015	2	Mañana	03	Básica secundaria	1	0
+0070301	2015	2	Mañana	02	Básica primaria	0	1
+0061359	2015	2	Mañana	02	Básica primaria	2	2
+0036819	2015	1	Completa	02	Básica primaria	0	1
+0065739	2015	1	Completa	04	Media	1	1
+0065002	2015	1	Completa	02	Básica primaria	0	1
+0065002	2015	1	Completa	04	Media	0	1
+0066214	2015	1	Completa	01	Preescolar	1	1
+0008388	2015	3	Tarde	02	Básica primaria	1	0
+0039698	2015	2	Mañana	02	Básica primaria	1	0
+0011507	2015	2	Mañana	03	Básica secundaria	1	0
+0076542	2015	2	Mañana	01	Preescolar	5	5
+0031580	2015	2	Mañana	02	Básica primaria	1	0
+0039333	2015	2	Mañana	02	Básica primaria	1	0
+0005886	2015	2	Mañana	03	Básica secundaria	0	1
+0074186	2015	3	Tarde	02	Básica primaria	1	0
+0070301	2015	2	Mañana	01	Preescolar	2	0
+0070301	2015	2	Mañana	03	Básica secundaria	2	0
+0080602	2015	1	Completa	02	Básica primaria	0	2
+0038741	2015	2	Mañana	03	Básica secundaria	23	36
+0038741	2015	4	Nocturna	06	Otros modelos educativos para jóvenes y adultos	5	8
+0038741	2015	5	Fin de Semana	05	CLEI (Ciclos lectivos integrados - decreto 3011 de 1997)	13	6
+0054571	2015	2	Mañana	03	Básica secundaria	8	5
+0010520	2015	2	Mañana	02	Básica primaria	2	2
+0075741	2015	1	Completa	02	Básica primaria	1	0
+0075741	2015	1	Completa	03	Básica secundaria	1	0
+0009337	2015	3	Tarde	02	Básica primaria	1	0
+0061449	2015	1	Completa	01	Preescolar	28	33
+0061449	2015	1	Completa	02	Básica primaria	88	81
+0061449	2015	1	Completa	03	Básica secundaria	91	95
+0061449	2015	1	Completa	04	Media	62	45
+0003933	2015	2	Mañana	02	Básica primaria	1	0
+0081655	2015	2	Mañana	02	Básica primaria	0	1
+0080319	2015	2	Mañana	02	Básica primaria	0	1
+0052211	2015	5	Fin de Semana	05	CLEI (Ciclos lectivos integrados - decreto 3011 de 1997)	27	28
+0010526	2015	2	Mañana	01	Preescolar	2	3
+0010526	2015	2	Mañana	02	Básica primaria	1	2
+0010526	2015	3	Tarde	01	Preescolar	1	1
+0010526	2015	3	Tarde	02	Básica primaria	1	1
+0070873	2015	3	Tarde	02	Básica primaria	2	1
+0070873	2015	3	Tarde	03	Básica secundaria	2	1
+0066490	2015	2	Mañana	02	Básica primaria	10	8
+0057440	2015	2	Mañana	02	Básica primaria	0	1
+0000919	2015	3	Tarde	02	Básica primaria	2	0
+0011325	2015	1	Completa	02	Básica primaria	17	41
+0011325	2015	1	Completa	03	Básica secundaria	24	118
+0011325	2015	1	Completa	04	Media	15	42
+0011545	2015	4	Nocturna	05	CLEI (Ciclos lectivos integrados - decreto 3011 de 1997)	1	0
+0067482	2015	1	Completa	04	Media	0	1
+0008193	2015	3	Tarde	01	Preescolar	1	0
+0008193	2015	3	Tarde	02	Básica primaria	1	2
+0008193	2015	3	Tarde	03	Básica secundaria	1	1
+0008193	2015	3	Tarde	04	Media	1	3
+0032064	2015	1	Completa	02	Básica primaria	1	0
+0061921	2015	5	Fin de Semana	05	CLEI (Ciclos lectivos integrados - decreto 3011 de 1997)	1	0
+0078038	2015	1	Completa	03	Básica secundaria	2	0
+0078038	2015	1	Completa	04	Media	1	0
+0002834	2015	3	Tarde	02	Básica primaria	0	1
+0073317	2015	2	Mañana	01	Preescolar	1	0
+0059945	2015	1	Completa	01	Preescolar	5	1
+0059945	2015	1	Completa	04	Media	2	0
+0031562	2015	2	Mañana	02	Básica primaria	1	0
+0033959	2015	2	Mañana	02	Básica primaria	1	0
+0068728	2015	1	Completa	03	Básica secundaria	1	0
+0032982	2015	2	Mañana	01	Preescolar	1	0
+0068728	2015	1	Completa	02	Básica primaria	2	0
+0068728	2015	1	Completa	04	Media	1	1
+0067763	2015	2	Mañana	02	Básica primaria	1	0
+0067704	2015	1	Completa	01	Preescolar	1	0
+0065800	2015	1	Completa	01	Preescolar	0	1
+0070384	2015	2	Mañana	01	Preescolar	0	1
+0077645	2015	5	Fin de Semana	05	CLEI (Ciclos lectivos integrados - decreto 3011 de 1997)	1	1
+0011741	2015	5	Fin de Semana	05	CLEI (Ciclos lectivos integrados - decreto 3011 de 1997)	1	0
+0001565	2015	1	Completa	02	Básica primaria	0	1
+0010523	2015	2	Mañana	02	Básica primaria	1	2
+0062559	2015	1	Completa	02	Básica primaria	1	0
+0010523	2015	2	Mañana	01	Preescolar	1	1
+0035696	2015	1	Completa	02	Básica primaria	1	1
+0008263	2015	2	Mañana	03	Básica secundaria	3	2
+0045532	2015	2	Mañana	01	Preescolar	10	5
+0045532	2015	2	Mañana	02	Básica primaria	19	17
+0012037	2015	2	Mañana	02	Básica primaria	0	2
+0000029	2015	2	Mañana	03	Básica secundaria	4	1
+0000029	2015	2	Mañana	04	Media	2	1
+0000029	2015	3	Tarde	02	Básica primaria	2	0
+0000029	2015	3	Tarde	03	Básica secundaria	3	0
+0001482	2015	2	Mañana	01	Preescolar	2	4
+0001482	2015	2	Mañana	03	Básica secundaria	5	9
+0001482	2015	2	Mañana	04	Media	2	3
+0001482	2015	3	Tarde	02	Básica primaria	5	16
+0001482	2015	4	Nocturna	05	CLEI (Ciclos lectivos integrados - decreto 3011 de 1997)	8	6
+0001048	2015	2	Mañana	03	Básica secundaria	1	0
+0071779	2015	1	Completa	02	Básica primaria	1	1
+0061561	2015	2	Mañana	03	Básica secundaria	1	0
+0045363	2015	2	Mañana	02	Básica primaria	1	1
+0071779	2015	1	Completa	03	Básica secundaria	3	3
+0006118	2015	3	Tarde	02	Básica primaria	1	0
+0029080	2015	2	Mañana	03	Básica secundaria	3	1
+0029080	2015	3	Tarde	04	Media	1	0
+0033057	2015	2	Mañana	02	Básica primaria	1	0
+0001452	2015	2	Mañana	03	Básica secundaria	8	14
+0059865	2015	5	Fin de Semana	05	CLEI (Ciclos lectivos integrados - decreto 3011 de 1997)	5	4
+0066587	2015	1	Completa	04	Media	1	0
+0001076	2015	1	Completa	03	Básica secundaria	2	0
+0081337	2015	2	Mañana	01	Preescolar	18	22
+0081337	2015	2	Mañana	02	Básica primaria	110	89
+0053803	2015	2	Mañana	03	Básica secundaria	114	93
+0053803	2015	2	Mañana	04	Media	31	53
+0073906	2015	1	Completa	02	Básica primaria	10	7
+0073906	2015	1	Completa	03	Básica secundaria	20	8
+0073906	2015	1	Completa	04	Media	9	4
+0079223	2015	2	Mañana	01	Preescolar	6	9
+0079223	2015	2	Mañana	02	Básica primaria	14	8
