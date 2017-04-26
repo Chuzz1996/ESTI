@@ -1,3 +1,7 @@
+install.packages("ggplot2")
+library(readr)
+encuesta <- read_csv("~/Documents/ESTI-Master/archivos/EncuestaTransporte.csv")
+
 #Define vector
 numbers = c(23, 13, 5, 7, 31)
 names = c("edwin", "alice", "bob")
@@ -5,25 +9,29 @@ names = c("edwin", "alice", "bob")
 #Define Factor: take on a limited number of different values; such variables are often refered to as categorical variables.
 v <- c(1,3,5,8,2,1,3,5,3,5)
 x <- factor(v)
-""  Levels are used when displaying the factor's values  ""
+" Levels are used when displaying the factor's values  "
 data = c(1,2,2,3,1,2,3,3,1,2,3,3,1)
 fdata = factor(data)
-"" Change labels  ""
+" Change labels  "
 rdata = factor(data,labels=c("I","II","III"))
 
-#"" TEST: time = factor(c("Lunch","Dinner","Breakfast"), levels=c("Lunch","Dinner"))""#
+#" TEST: time = factor(c("Lunch","Dinner","Breakfast"), levels=c("Lunch","Dinner"))"#
 
 #A data frame is used for storing data tables. It is a list of vectors of equal length
 books = data.frame(
-    title = c("harry potter", "war and peace", "lord of the rings"),
+    title = c("harry potter", "lord of the rings","war and peace"),
     author = c("rowling", "tolstoy", "tolkien"),
     num_pages = c("350", "875", "500")
 )
 
+encuestas = data.frame(title = c(encuesta$MOTIVOVIAJE), motivo = c(encuesta$MOTIVOVIAJE), personas = c(encuesta$NUMERO_PERSONA))
+
+
+
 #AES Function: Generate aesthetic mappings that describe how variables in the data are mapped to visual properties (aesthetics) of geoms.
 #ggplot specify data frame and aesthetics (visual characteristics that represent data)
  #aes fill parameter let the graph a colorful representation depending a variable
-   g <- ggplot(data=books, aes(x=title, y=num_pages,fill=title))
+g <- ggplot(data=encuestas, aes(x=motivo, y=personas,fill=title))
 
 #Bar graph
   #bar color parameter border with a specific color the bars
