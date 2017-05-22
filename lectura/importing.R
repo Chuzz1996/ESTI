@@ -17,6 +17,8 @@ install.packages("DBI")
 ##Import excel files
 #Se importa la libreria readxl para leer archivos de excel
 library(readxl)
+#Se escribe la ruta al archivo, en algunos casos se puede escribir de mandera simplificada usando ~
+#En los casos que no, toca dirigirse al archivo por el buscador y copiar la ruta completa al archivo
 divipola <- read_excel("~/Documents/ESTI-Master/archivos/Listado_2012.xlsx")
 #View se usa para mostrar prueba en pantalla
 View(divipola)
@@ -60,9 +62,10 @@ options(java.parameters="-Xmx2g")
 library(rJava)
 
 .jinit()
-
+#BD
 library(DBI)
 library(RJDBC)
+#Driver para la conexi??n a la base de datos
 drv <- JDBC("oracle.jdbc.OracleDriver","/Users/JuanHerrera/Documents/ESTI-Master/ojdbc6.jar")
 con <- dbConnect(drv, "jdbc:oracle:thin:@//granate.is.escuelaing.edu.co:1521", "bd2103021","bd2103021")
 
